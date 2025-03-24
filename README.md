@@ -1,6 +1,6 @@
 # OSINT-CLI
 
-A comprehensive Open Source Intelligence (OSINT) gathering tool with a command-line interface inspired by SQLMap.
+A comprehensive Open Source Intelligence (OSINT) gathering tool with a command-line interface by VyOfGod.
 
 ## Features
 
