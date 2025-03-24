@@ -17,7 +17,7 @@ A comprehensive Open Source Intelligence (OSINT) gathering tool with a command-l
 ```bash
 # Clone the repository
 git clone https://github.com/vyofgod/OSINTCLI.git
-cd osint-cli
+cd OSINTCLI
 
 # Install dependencies
 pip install -r requirements.txt
